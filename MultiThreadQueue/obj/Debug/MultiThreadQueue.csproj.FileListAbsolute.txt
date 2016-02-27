@@ -1,0 +1,9 @@
+C:\Users\melihe\Desktop\SDPOutboundServices\Core.Library\MultiThreadQueue\bin\Debug\MultiThreadQueue.dll
+C:\Users\melihe\Desktop\SDPOutboundServices\Core.Library\MultiThreadQueue\bin\Debug\MultiThreadQueue.pdb
+C:\Users\melihe\Desktop\SDPOutboundServices\Core.Library\MultiThreadQueue\obj\Debug\MultiThreadQueue.dll
+C:\Users\melihe\Desktop\SDPOutboundServices\Core.Library\MultiThreadQueue\obj\Debug\MultiThreadQueue.pdb
+D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\MultiThreadQueue\bin\Debug\Core.Library.MultiThreadQueue.dll
+D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\MultiThreadQueue\bin\Debug\Core.Library.MultiThreadQueue.pdb
+D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\MultiThreadQueue\obj\Debug\Core.Library.MultiThreadQueue.dll
+D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\MultiThreadQueue\obj\Debug\Core.Library.MultiThreadQueue.pdb
+D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\MultiThreadQueue\obj\Debug\MultiThreadQueue.csprojResolveAssemblyReference.cache
