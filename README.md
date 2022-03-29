@@ -13,9 +13,9 @@ Common usage for,
 - High density buffer usage
 
 # Solves
-- Backlogs
-- Deadlocks
-- Sequene time waste
+- Backlogged items in a bottleneck
+- Deadlocks when common accessed data
+- Time waste of sequence process
 
 # Sample Use Case
 You are a SMS Provider and need to send multiple SMS in a short time. But your sms items stored in database table, need to read these data and process on code base. Most used scenerios one by one data read from db and process to send sms. But using BufferQ provides you to read only one time and batch data. All these data stored in a thread safe queue in memory. Specified amount of threads starts to consume that queue and process sms sending. So millions of records will be melt in a short time.
