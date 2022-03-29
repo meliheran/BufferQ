@@ -1,0 +1,10 @@
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\bin\Debug\SampleApp.exe.config
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\bin\Debug\SampleApp.exe
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\bin\Debug\SampleApp.pdb
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\bin\Debug\Core.Library.BufferQ.dll
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\bin\Debug\Core.Library.BufferQ.pdb
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\obj\Debug\SampleApp.csprojAssemblyReference.cache
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\obj\Debug\SampleApp.csproj.CopyComplete
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\obj\Debug\SampleApp.exe
+D:\My Vs Projects\MyGitHubRepo\BufferQSolution\Samples\Sample1\obj\Debug\SampleApp.pdb

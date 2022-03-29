@@ -1,0 +1,5 @@
+D:\My Vs Projects\MyGitHubRepo\MultithreadQueue\MultiThreadQueue\bin\Debug\Core.Library.BufferQ.dll
+D:\My Vs Projects\MyGitHubRepo\MultithreadQueue\MultiThreadQueue\bin\Debug\Core.Library.BufferQ.pdb
+D:\My Vs Projects\MyGitHubRepo\MultithreadQueue\MultiThreadQueue\obj\Debug\BufferQProject.csproj.CoreCompileInputs.cache
+D:\My Vs Projects\MyGitHubRepo\MultithreadQueue\MultiThreadQueue\obj\Debug\Core.Library.BufferQ.dll
+D:\My Vs Projects\MyGitHubRepo\MultithreadQueue\MultiThreadQueue\obj\Debug\Core.Library.BufferQ.pdb

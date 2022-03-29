@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufferQProject", "BufferQProject.csproj", "{79E30A8F-BE5C-4866-8CD6-A790219FC834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4E3E3249-730F-4FC9-AC87-3B0610B2CB49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{DFE8A441-D30D-4D70-95BB-9D7A3E091107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "..\Samples\Sample1\SampleApp.csproj", "{2F8A966A-A743-4F92-A9BB-2C1BE05F7657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E30A8F-BE5C-4866-8CD6-A790219FC834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E30A8F-BE5C-4866-8CD6-A790219FC834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E30A8F-BE5C-4866-8CD6-A790219FC834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E30A8F-BE5C-4866-8CD6-A790219FC834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8A966A-A743-4F92-A9BB-2C1BE05F7657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8A966A-A743-4F92-A9BB-2C1BE05F7657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8A966A-A743-4F92-A9BB-2C1BE05F7657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8A966A-A743-4F92-A9BB-2C1BE05F7657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F8A966A-A743-4F92-A9BB-2C1BE05F7657} = {DFE8A441-D30D-4D70-95BB-9D7A3E091107}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E73CAF-6814-4363-9A9A-F23033318DAB}
+	EndGlobalSection
+EndGlobal
