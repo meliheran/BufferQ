@@ -18,4 +18,8 @@ Common usage for,
 - Time waste of sequence process
 
 # Sample Use Case
+*Sms Provider*
 You are a SMS Provider and need to send multiple SMS in a short time. But your sms items stored in database table, need to read these data and process on code base. Most used scenerios one by one data read from db and process to send sms. But using BufferQ provides you to read only one time and batch data. All these data stored in a thread safe queue in memory. Specified amount of threads starts to consume that queue and process sms sending. So millions of records will be melt in a short time.
+
+*Coupon Generator*
+You are creating coupons but takes time to create each one. Multiple requests can be cause to creation of each coupon and user to be wait. So buffering can be a simple way for that. Some coupon can be generated and added to queue to get ready on user demand.
