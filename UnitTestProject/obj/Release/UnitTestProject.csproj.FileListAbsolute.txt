@@ -1,7 +1,0 @@
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\bin\Release\UnitTestProject.dll
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\bin\Release\UnitTestProject.pdb
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\obj\Release\UnitTestProject.dll
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\obj\Release\UnitTestProject.pdb
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\bin\Release\Core.Library.MultiThreadQueue.dll
-D:\Users\melihe\Documents\Projects\core-library-multithreadqueue\UnitTestProject\bin\Release\Core.Library.MultiThreadQueue.pdb
