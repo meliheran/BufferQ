@@ -1,0 +1,12 @@
+D:\My Vs Projects\BufferQSolution\BufferQProject\bin\Release\net5.0\BufferQProject.deps.json
+D:\My Vs Projects\BufferQSolution\BufferQProject\bin\Release\net5.0\BufferQProject.dll
+D:\My Vs Projects\BufferQSolution\BufferQProject\bin\Release\net5.0\BufferQProject.pdb
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.csproj.AssemblyReference.cache
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.AssemblyInfoInputs.cache
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.AssemblyInfo.cs
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.csproj.CoreCompileInputs.cache
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.dll
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\refint\BufferQProject.dll
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\BufferQProject.pdb
+D:\My Vs Projects\BufferQSolution\BufferQProject\obj\Release\net5.0\ref\BufferQProject.dll

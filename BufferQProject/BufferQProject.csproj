@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Company>The Brainstorming Company</Company>
+    <Authors>melih eran</Authors>
+    <Product>BufferQ</Product>
+    <PackageProjectUrl>https://github.com/meliheran/BufferQ</PackageProjectUrl>
+    <Description>A thread safe buffer queue mechanism that can be processed with multi thread logic. Usefull for periodicly loading batch records from database or etc. and to process these items on seperated multi threads.</Description>
+    <PackageId>BufferQ</PackageId>
+  </PropertyGroup>
+</Project>
